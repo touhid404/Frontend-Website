@@ -7,3 +7,5 @@
 4. New year offer  link : https://riyadh435.github.io/New-Year/
    
 5. Kid school website : https://riyadh435.github.io/Kids-School/
+   
+6.  Natures Platter:  https://riyadh435.github.io/Natures-Platter/
