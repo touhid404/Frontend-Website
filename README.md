@@ -9,3 +9,5 @@
 5. Kid school website : https://riyadh435.github.io/Kids-School/
    
 6.  Natures Platter:  https://riyadh435.github.io/Natures-Platter/
+
+7.  Nagad clone : https://riyadh435.github.io/Nagad-Clone/
